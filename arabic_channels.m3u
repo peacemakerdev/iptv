@@ -43,8 +43,6 @@ http://vvn.neoredi.com/iptv/ch4166?code=170140343781561&key=34999
 http://vvn.neoredi.com/iptv/ch4729?code=170140343781561&key=16574
 #EXTINF:0 group-title="Iraq"tvg-logo="http://logo.ddnb.tn/logochanel/1138.png",Baghdad Tv
 http://vvn.neoredi.com/iptv/ch1138?code=170140343781561&key=60156
-#EXTINF:0 group-title="Iraq"tvg-logo="http://logo.ddnb.tn/logochanel/1123.png",Al Huda
-http://vvn.neoredi.com/iptv/ch1123?code=170140343781561&key=21945
 #EXTINF:0 group-title="Bahrain-Oman"tvg-logo="http://logo.ddnb.tn/logochanel/558.png",Bahrain Quran
 http://vvn.neoredi.com/iptv/ch558?code=170140343781561&key=29393
 #EXTINF:0 group-title="Bahrain-Oman"tvg-logo="http://logo.ddnb.tn/logochanel/557.png",Bahrain Sport 1
@@ -111,10 +109,6 @@ http://vvn.neoredi.com/iptv/ch1015?code=170140343781561&key=49279
 http://vvn.neoredi.com/iptv/ch1148?code=170140343781561&key=23436
 #EXTINF:0 group-title="Islamic"tvg-logo="http://logo.ddnb.tn/logochanel/796.png",Mecca
 http://vvn.neoredi.com/iptv/ch796?code=170140343781561&key=32120
-#EXTINF:0 group-title="Islamic"tvg-logo="http://logo.ddnb.tn/logochanel/167.png",Saudi 1
-http://vvn.neoredi.com/iptv/ch167?code=170140343781561&key=47906
-#EXTINF:0 group-title="Islamic"tvg-logo="http://logo.ddnb.tn/logochanel/774.png",Saudi 2
-http://vvn.neoredi.com/iptv/ch774?code=170140343781561&key=28884
 #EXTINF:0 group-title="Islamic"tvg-logo="http://logo.ddnb.tn/logochanel/363.png",Saudi Haj
 http://vvn.neoredi.com/iptv/ch363?code=170140343781561&key=63390
 #EXTINF:0 group-title="Islamic"tvg-logo="http://logo.ddnb.tn/logochanel/357.png",Saudi Family
